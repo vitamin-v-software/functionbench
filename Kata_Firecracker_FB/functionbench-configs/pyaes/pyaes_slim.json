@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "name": "pyaes_slim-pod"
+  },
+  "image": {
+    "image": "ghcr.io/arkountos/pyaes_slim:latest"
+  },
+  "command": ["python3","invoke.py"],
+  "args": ["1024", "32"],
+  "log_path": "pyaes_slim-container.log",
+  "linux": {
+    "security_context": {
+      "privileged": false,
+      "capabilities": {
+        "add_capabilities": [
+          "SYS_TIME"
+        ]
+      }
+    }
+  }
+}

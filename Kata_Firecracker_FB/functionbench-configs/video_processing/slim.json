@@ -1,0 +1,29 @@
+{
+  "metadata": {
+    "name": "video_processing_slim-pod"
+  },
+  "image": {
+    "image": "ghcr.io/arkountos/video_processing_slim:latest"
+  },
+  "command": ["python3","invoke.py"],
+  "args": ["functionbench-video-src", "sample.mp4", "functionbench-video-out"],
+  "envs": [
+    { "key": "MINIO_URL", "value": "10.0.2.15:9000" },
+    { "key": "MINIO_ACCESS_KEY", "value": "minioadmin" },
+    { "key": "MINIO_SECRET_KEY", "value": "minioadmin" },
+    { "key": "MINIO_SECURE", "value": "false" },
+    { "key": "MINIO_REGION", "value": "us-east-1" },
+    { "key": "MINIO_DELTA_TIME", "value": "0" }
+  ],
+  "log_path": "video_processing_slim-container.log",
+  "linux": {
+    "security_context": {
+      "privileged": false,
+      "capabilities": {
+        "add_capabilities": [
+          "SYS_TIME"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+run,setup_time,run_time,total_time,benchmark_output
+1,129,45,174,time="2025-12-12T13:39:58Z" level=debug msg="Get runtime connection" time="2025-12-12T13:39:58Z" level=debug msg="Using runtime connection timeout: 1h6m40s" 0.056185245513916016 latency : 0.056185245513916016 
+2,133,47,180,time="2025-12-12T13:37:01Z" level=debug msg="Get runtime connection" time="2025-12-12T13:37:01Z" level=debug msg="Using runtime connection timeout: 1h6m40s" 0.0520625114440918 latency : 0.0520625114440918 
+3,125,51,176,time="2025-12-12T13:40:00Z" level=debug msg="Get runtime connection" time="2025-12-12T13:40:00Z" level=debug msg="Using runtime connection timeout: 1h6m40s" 0.05982661247253418 latency : 0.05982661247253418 
+4,135,-132,3,time="2025-12-12T13:37:07Z" level=debug msg="Get runtime connection" time="2025-12-12T13:37:07Z" level=debug msg="Using runtime connection timeout: 1h6m40s" 0.05596184730529785 latency : 0.05596184730529785 
+5,114,47,161,time="2025-12-12T13:39:45Z" level=debug msg="Get runtime connection" time="2025-12-12T13:39:45Z" level=debug msg="Using runtime connection timeout: 1h6m40s" 0.06104898452758789 latency : 0.06104898452758789 
+6,133,-133,0,time="2025-12-12T13:37:04Z" level=debug msg="Get runtime connection" time="2025-12-12T13:37:04Z" level=debug msg="Using runtime connection timeout: 1h6m40s" 0.05560874938964844 latency : 0.05560874938964844 
+7,133,49,182,time="2025-12-12T13:37:03Z" level=debug msg="Get runtime connection" time="2025-12-12T13:37:03Z" level=debug msg="Using runtime connection timeout: 1h6m40s" 0.05320000648498535 latency : 0.05320000648498535 
+8,133,49,182,time="2025-12-12T13:37:03Z" level=debug msg="Get runtime connection" time="2025-12-12T13:37:03Z" level=debug msg="Using runtime connection timeout: 1h6m40s" 0.05861806869506836 latency : 0.05861806869506836 
+9,106,46,152,time="2025-12-12T13:39:36Z" level=debug msg="Get runtime connection" time="2025-12-12T13:39:36Z" level=debug msg="Using runtime connection timeout: 1h6m40s" 0.062055110931396484 latency : 0.062055110931396484 
+10,131,48,179,time="2025-12-12T13:37:00Z" level=debug msg="Get runtime connection" time="2025-12-12T13:37:00Z" level=debug msg="Using runtime connection timeout: 1h6m40s" 0.060411691665649414 latency : 0.060411691665649414 

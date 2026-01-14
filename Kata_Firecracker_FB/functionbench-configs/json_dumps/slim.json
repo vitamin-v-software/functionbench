@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "name": "json_dumps_loads_slim-pod"
+  },
+  "image": {
+    "image": "ghcr.io/arkountos/json_dumps_loads_slim:latest"
+  },
+  "command": ["python3","invoke.py"],
+  "args": ["https://blockchain.info/latestblock"],
+  "log_path": "json_dumps_loads_slim-container.log",
+  "linux": {
+    "security_context": {
+      "privileged": false,
+      "capabilities": {
+        "ajson_dumps_loads_capabilities": [
+          "SYS_TIME"
+        ]
+      }
+    }
+  }
+}

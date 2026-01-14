@@ -1,0 +1,2 @@
+run,setup_time,run_time,total_time,benchmark_output
+1,113,52,165,time="2025-12-12T13:39:48Z" level=debug msg="Get runtime connection" time="2025-12-12T13:39:48Z" level=debug msg="Using runtime connection timeout: 1h6m40s" Fri Dec 12 13:37:00 UTC 2025 Download `test-item` from bucket `functionbench-bucket-in` to `/tmp/test-item` Upload `test-item` to bucket `functionbench-bucket-out` Download time : 2.1927170753479004 Upload Time : 0.43993139266967773 

@@ -1,0 +1,2 @@
+run,setup_time,run_time,total_time,benchmark_output
+1,125,46,171,time="2025-12-12T13:39:55Z" level=debug msg="Get runtime connection" time="2025-12-12T13:39:55Z" level=debug msg="Using runtime connection timeout: 1h6m40s" {'mflops': 0.0019390283406136753; 'latency': 0.4469592571258545} latency : 0.4469592571258545 mflops : 0.0019390283406136753 

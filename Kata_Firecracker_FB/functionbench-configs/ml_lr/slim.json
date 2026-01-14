@@ -1,0 +1,29 @@
+{
+  "metadata": {
+    "name": "ml_lr_slim-pod"
+  },
+  "image": {
+    "image": "ghcr.io/arkountos/ml_lr_slim:latest"
+  },
+  "command": ["python3","invoke.py"],
+  "args": ["The ambiance is magical. The food and service was nice! The lobster and cheese was to die for and our steaks were cooked perfectly.", "functionbench-mllr-data-in", "reviews10mb.csv", "functionbench-mllr-model-in", "lr_model.pk"],
+  "envs": [
+    { "key": "MINIO_URL", "value": "10.0.2.15:9000" },
+    { "key": "MINIO_ACCESS_KEY", "value": "minioadmin" },
+    { "key": "MINIO_SECRET_KEY", "value": "minioadmin" },
+    { "key": "MINIO_SECURE", "value": "false" },
+    { "key": "MINIO_REGION", "value": "us-east-1" },
+    { "key": "MINIO_DELTA_TIME", "value": "0" }
+  ],
+  "log_path": "ml_lr_slim-container.log",
+  "linux": {
+    "security_context": {
+      "privileged": false,
+      "capabilities": {
+        "add_capabilities": [
+          "SYS_TIME"
+        ]
+      }
+    }
+  }
+}

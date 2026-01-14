@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "name": "chameleon_slim-pod"
+  },
+  "image": {
+    "image": "ghcr.io/arkountos/chameleon_slim:latest"
+  },
+  "command": ["python3","invoke.py"],
+  "args": ["10", "15"],
+  "log_path": "chameleon_slim-container.log",
+  "linux": {
+    "security_context": {
+      "privileged": false,
+      "capabilities": {
+        "add_capabilities": [
+          "SYS_TIME"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "name": "dd_slim-pod"
+  },
+  "image": {
+    "image": "ghcr.io/arkountos/dd_slim:latest"
+  },
+  "command": ["python3","invoke.py"],
+  "args": ["512", "100"],
+  "log_path": "dd_slim-container.log",
+  "linux": {
+    "security_context": {
+      "privileged": false,
+      "capabilities": {
+        "add_capabilities": [
+          "SYS_TIME"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "name": "linpack_slim-pod"
+  },
+  "image": {
+    "image": "ghcr.io/arkountos/linpack_slim:latest"
+  },
+  "command": ["python3","invoke.py"],
+  "args": ["512"],
+  "log_path": "linpack_slim-container.log",
+  "linux": {
+    "security_context": {
+      "privileged": false,
+      "capabilities": {
+        "add_capabilities": [
+          "SYS_TIME"
+        ]
+      }
+    }
+  }
+}

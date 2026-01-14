@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "name": "gzip_compression_slim-pod"
+  },
+  "image": {
+    "image": "ghcr.io/arkountos/gzip_compression_slim:latest"
+  },
+  "command": ["python3","invoke.py"],
+  "args": ["25"],
+  "log_path": "gzip_compression_slim-container.log",
+  "linux": {
+    "security_context": {
+      "privileged": false,
+      "capabilities": {
+        "agzip_compression_capabilities": [
+          "SYS_TIME"
+        ]
+      }
+    }
+  }
+}

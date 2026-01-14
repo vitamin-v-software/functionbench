@@ -1,0 +1,20 @@
+{
+	"metadata": {
+		"name": "linpack_slim-pod",
+		"uid": "linpack_slim-pod",
+		"namespace": "test.kata"
+	},
+	"hostname": "linpack_slim-pod-host",
+	"log_directory": "/home/ubuntu/fivos_workdir/logs",
+	"dns_config": {
+	},
+	"port_mappings": [],
+	"resources": {
+	},
+	"labels": {
+	},
+	"annotations": {
+	},
+	"linux": {
+	}
+}

@@ -1,0 +1,47 @@
+---
+dependencies:
+  - name: cri-tools
+    version: v1.34.0
+    refPaths:
+      - path: README.md
+        match: VERSION
+
+  - name: go
+    version: 1.25
+    refPaths:
+      - path: go.mod
+        match: go
+
+  - name: zeitgeist
+    version: v0.5.3
+    refPaths:
+      - path: Makefile
+        match: ZEITGEIST_VERSION
+
+  - name: golangci-lint
+    version: v2.6.2
+    refPaths:
+      - path: Makefile
+        match: GOLANGCI_LINT_VERSION
+
+  - name: repo-infra
+    version: v0.2.5
+    refPaths:
+      - path: Makefile
+        match: REPO_INFRA_VERSION
+
+  - name: release-notes
+    version: v0.18.0
+    refPaths:
+      - path: hack/release-notes.sh
+        match: VERSION
+
+  - name: busybox
+    version: 1.37.0
+    refPaths:
+      - path: images/image-test/Dockerfile
+        match: FROM
+      - path: images/image-user/Dockerfile
+        match: FROM
+      - path: images/image-predefined-group/Dockerfile
+        match: FROM

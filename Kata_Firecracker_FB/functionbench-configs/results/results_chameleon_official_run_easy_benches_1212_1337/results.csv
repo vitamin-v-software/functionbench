@@ -1,0 +1,11 @@
+run,setup_time,run_time,total_time,benchmark_output
+1,118,42,160,time="2025-12-12T13:39:43Z" level=debug msg="Get runtime connection" time="2025-12-12T13:39:43Z" level=debug msg="Using runtime connection timeout: 1h6m40s" latency : 2.03023362159729 
+2,125,45,170,time="2025-12-12T13:39:54Z" level=debug msg="Get runtime connection" time="2025-12-12T13:39:54Z" level=debug msg="Using runtime connection timeout: 1h6m40s" latency : 1.8928923606872559 
+3,117,48,165,time="2025-12-12T13:39:48Z" level=debug msg="Get runtime connection" time="2025-12-12T13:39:48Z" level=debug msg="Using runtime connection timeout: 1h6m40s" latency : 1.7008724212646484 
+4,124,43,167,time="2025-12-12T13:39:51Z" level=debug msg="Get runtime connection" time="2025-12-12T13:39:51Z" level=debug msg="Using runtime connection timeout: 1h6m40s" latency : 1.7969624996185303 
+5,113,41,154,time="2025-12-12T13:39:38Z" level=debug msg="Get runtime connection" time="2025-12-12T13:39:38Z" level=debug msg="Using runtime connection timeout: 1h6m40s" latency : 1.926140308380127 
+6,114,47,161,time="2025-12-12T13:39:47Z" level=debug msg="Get runtime connection" time="2025-12-12T13:39:47Z" level=debug msg="Using runtime connection timeout: 1h6m40s" latency : 2.238877773284912 
+7,135,46,181,time="2025-12-12T13:37:02Z" level=debug msg="Get runtime connection" time="2025-12-12T13:37:02Z" level=debug msg="Using runtime connection timeout: 1h6m40s" latency : 1.912114143371582 
+8,125,46,171,time="2025-12-12T13:39:55Z" level=debug msg="Get runtime connection" time="2025-12-12T13:39:55Z" level=debug msg="Using runtime connection timeout: 1h6m40s" latency : 1.7687363624572754 
+9,108,44,152,time="2025-12-12T13:39:36Z" level=debug msg="Get runtime connection" time="2025-12-12T13:39:36Z" level=debug msg="Using runtime connection timeout: 1h6m40s" latency : 1.7169592380523682 
+10,120,45,165,time="2025-12-12T13:39:49Z" level=debug msg="Get runtime connection" time="2025-12-12T13:39:49Z" level=debug msg="Using runtime connection timeout: 1h6m40s" latency : 1.8675665855407715 

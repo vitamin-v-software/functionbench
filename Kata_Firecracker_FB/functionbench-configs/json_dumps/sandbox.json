@@ -1,0 +1,20 @@
+{
+	"metadata": {
+		"name": "json_dumps_loads_slim-pod",
+		"uid": "json_dumps_loads_slim-pod",
+		"namespace": "test.kata"
+	},
+	"hostname": "json_dumps_loads_slim-pod-host",
+	"log_directory": "/home/ubuntu/fivos_workdir/logs",
+	"dns_config": {
+	},
+	"port_mappings": [],
+	"resources": {
+	},
+	"labels": {
+	},
+	"annotations": {
+	},
+	"linux": {
+	}
+}

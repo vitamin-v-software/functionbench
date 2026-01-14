@@ -1,0 +1,20 @@
+{
+	"metadata": {
+		"name": "image_processing_slim_4-pod",
+		"uid": "image_processing_slim_4-pod",
+		"namespace": "test.kata"
+	},
+	"hostname": "image_processing_slim_4-pod-host",
+	"log_directory": "/home/ubuntu/fivos_workdir/logs",
+	"dns_config": {
+	},
+	"port_mappings": [],
+	"resources": {
+	},
+	"labels": {
+	},
+	"annotations": {
+	},
+	"linux": {
+	}
+}

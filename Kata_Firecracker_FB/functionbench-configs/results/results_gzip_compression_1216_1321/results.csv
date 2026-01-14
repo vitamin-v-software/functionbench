@@ -1,0 +1,2 @@
+run,setup_time,run_time,total_time,benchmark_output
+1,123,124,247,49.13011455535889 disk latency : 17.361202001571655/ compress latency : 49.13011455535889 

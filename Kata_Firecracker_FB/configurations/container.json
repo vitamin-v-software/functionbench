@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "name": "final-pod"
+  },
+  "image": {
+    "image": "docker.io/library/busybox:latest"
+  },
+  "command": [
+    "bash"
+  ],
+  "log_path": "kata-container.log",
+  "linux": {
+    "security_context": {
+      "privileged": false,
+      "capabilities": {
+        "add_capabilities": [
+          "SYS_TIME"
+        ]
+      }
+    }
+  }
+}
