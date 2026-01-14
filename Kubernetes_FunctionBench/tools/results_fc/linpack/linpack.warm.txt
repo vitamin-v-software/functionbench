@@ -1,0 +1,501 @@
+
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 260357860, 'output': 'mflops : 7347.340201309743'}
+Client-perceived latency: 2573976138 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 20581194, 'output': 'mflops : 7690.876705303017'}
+Client-perceived latency: 32783677 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 19808917, 'output': 'mflops : 9445.030829741125'}
+Client-perceived latency: 31140818 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 18917711, 'output': 'mflops : 9205.047359256116'}
+Client-perceived latency: 30319504 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 21338090, 'output': 'mflops : 10068.78780014652'}
+Client-perceived latency: 32824345 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 18951278, 'output': 'mflops : 9670.286963729111'}
+Client-perceived latency: 31029241 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 18502459, 'output': 'mflops : 10173.803859401518'}
+Client-perceived latency: 29650391 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 17240134, 'output': 'mflops : 10217.034540518925'}
+Client-perceived latency: 28402278 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 18028241, 'output': 'mflops : 11246.13436419976'}
+Client-perceived latency: 28335685 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 19575996, 'output': 'mflops : 9695.122690579483'}
+Client-perceived latency: 30679546 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 17965289, 'output': 'mflops : 8946.957841421403'}
+Client-perceived latency: 29903248 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 19539226, 'output': 'mflops : 9893.827603278556'}
+Client-perceived latency: 31265479 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 18447541, 'output': 'mflops : 9054.470694691867'}
+Client-perceived latency: 30598005 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 19185121, 'output': 'mflops : 9886.313435027585'}
+Client-perceived latency: 30311528 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 18212006, 'output': 'mflops : 9800.33210112135'}
+Client-perceived latency: 30118454 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 22252917, 'output': 'mflops : 8881.075429423923'}
+Client-perceived latency: 34866231 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 17527241, 'output': 'mflops : 11476.575326151256'}
+Client-perceived latency: 29182343 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 22845415, 'output': 'mflops : 10647.871610388213'}
+Client-perceived latency: 35202652 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 17802892, 'output': 'mflops : 11679.320345371367'}
+Client-perceived latency: 28615084 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 26362818, 'output': 'mflops : 7219.748545586729'}
+Client-perceived latency: 38189518 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 18075813, 'output': 'mflops : 11531.264080492816'}
+Client-perceived latency: 29601377 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 18037853, 'output': 'mflops : 11784.32266351668'}
+Client-perceived latency: 29951895 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 18457829, 'output': 'mflops : 9399.407205893463'}
+Client-perceived latency: 29716946 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 17346446, 'output': 'mflops : 10093.28606730016'}
+Client-perceived latency: 28204628 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 21896883, 'output': 'mflops : 10212.335782580638'}
+Client-perceived latency: 33194319 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 19782461, 'output': 'mflops : 9265.143142624516'}
+Client-perceived latency: 31615302 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 21603287, 'output': 'mflops : 9405.964822920549'}
+Client-perceived latency: 33438453 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 17644790, 'output': 'mflops : 9328.10279975026'}
+Client-perceived latency: 29847091 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 23393737, 'output': 'mflops : 8487.128582097019'}
+Client-perceived latency: 34622782 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 17637490, 'output': 'mflops : 9377.226127210008'}
+Client-perceived latency: 29064725 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 18992054, 'output': 'mflops : 9193.166407790304'}
+Client-perceived latency: 30746864 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 16840258, 'output': 'mflops : 9937.845316777057'}
+Client-perceived latency: 28395472 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 17857347, 'output': 'mflops : 11737.78776167076'}
+Client-perceived latency: 30014151 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 18935874, 'output': 'mflops : 11588.966421166982'}
+Client-perceived latency: 30922603 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 19564399, 'output': 'mflops : 11757.89547757719'}
+Client-perceived latency: 30890224 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 22237831, 'output': 'mflops : 9672.26913841229'}
+Client-perceived latency: 33649734 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 17440227, 'output': 'mflops : 10921.423179606345'}
+Client-perceived latency: 29041475 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 17038569, 'output': 'mflops : 10948.346641621036'}
+Client-perceived latency: 28220514 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 18267849, 'output': 'mflops : 9966.97009117078'}
+Client-perceived latency: 29646398 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 20619960, 'output': 'mflops : 9248.346126784587'}
+Client-perceived latency: 31973521 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 15247106, 'output': 'mflops : 10935.977061997546'}
+Client-perceived latency: 24761895 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 19853944, 'output': 'mflops : 10129.306434557617'}
+Client-perceived latency: 31110436 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 20114280, 'output': 'mflops : 9599.954026984036'}
+Client-perceived latency: 31548872 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 17692839, 'output': 'mflops : 9292.28288499922'}
+Client-perceived latency: 29173365 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 20131436, 'output': 'mflops : 9428.988715233621'}
+Client-perceived latency: 31275361 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 18155032, 'output': 'mflops : 9079.078193393138'}
+Client-perceived latency: 29348835 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 17408853, 'output': 'mflops : 9875.709410152866'}
+Client-perceived latency: 28593018 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 17429696, 'output': 'mflops : 11157.385830912493'}
+Client-perceived latency: 28127012 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 16683301, 'output': 'mflops : 11178.862039239933'}
+Client-perceived latency: 27850582 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 17718512, 'output': 'mflops : 11850.541271483073'}
+Client-perceived latency: 28001968 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 18682569, 'output': 'mflops : 12227.48007006424'}
+Client-perceived latency: 29208163 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 18386870, 'output': 'mflops : 10750.975200156447'}
+Client-perceived latency: 30483568 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 18575798, 'output': 'mflops : 12729.261943724483'}
+Client-perceived latency: 29405943 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 19162163, 'output': 'mflops : 11496.847638285162'}
+Client-perceived latency: 31622287 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 19421967, 'output': 'mflops : 10385.973868629964'}
+Client-perceived latency: 30751273 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 17823180, 'output': 'mflops : 10321.794553443613'}
+Client-perceived latency: 28971841 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 20824190, 'output': 'mflops : 10199.092000191644'}
+Client-perceived latency: 32189746 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 20427527, 'output': 'mflops : 9374.19896208327'}
+Client-perceived latency: 31501214 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 18472820, 'output': 'mflops : 9663.108385887812'}
+Client-perceived latency: 30559531 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 18497293, 'output': 'mflops : 9648.043351217657'}
+Client-perceived latency: 30178992 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 17183170, 'output': 'mflops : 11719.56760743514'}
+Client-perceived latency: 26616037 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 22816018, 'output': 'mflops : 7252.204334103573'}
+Client-perceived latency: 33464966 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 20310645, 'output': 'mflops : 9810.774785672158'}
+Client-perceived latency: 31923836 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 18669050, 'output': 'mflops : 9167.26953551794'}
+Client-perceived latency: 30099397 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 19761422, 'output': 'mflops : 11294.58732618536'}
+Client-perceived latency: 30734597 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 17607374, 'output': 'mflops : 11934.84009494446'}
+Client-perceived latency: 29784502 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 16334709, 'output': 'mflops : 11754.234406622658'}
+Client-perceived latency: 28529919 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 15389562, 'output': 'mflops : 13003.754467898494'}
+Client-perceived latency: 25288143 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 17194094, 'output': 'mflops : 11524.92725394881'}
+Client-perceived latency: 29089074 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 18619756, 'output': 'mflops : 9050.346244470124'}
+Client-perceived latency: 29192299 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 20836974, 'output': 'mflops : 11567.304801688166'}
+Client-perceived latency: 32899342 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 18460263, 'output': 'mflops : 8937.214238099701'}
+Client-perceived latency: 29590176 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 18145341, 'output': 'mflops : 11570.850335726998'}
+Client-perceived latency: 28155675 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 18092090, 'output': 'mflops : 9093.07460443438'}
+Client-perceived latency: 30401724 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 19897017, 'output': 'mflops : 10296.737553954867'}
+Client-perceived latency: 30830594 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 18321742, 'output': 'mflops : 9215.609017969711'}
+Client-perceived latency: 29716377 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 19814460, 'output': 'mflops : 9540.030128963692'}
+Client-perceived latency: 32203089 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 17681702, 'output': 'mflops : 9449.049891194045'}
+Client-perceived latency: 29239875 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 20752033, 'output': 'mflops : 8221.333976590224'}
+Client-perceived latency: 31583733 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 16748963, 'output': 'mflops : 11647.608522156535'}
+Client-perceived latency: 27850293 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 19599502, 'output': 'mflops : 11248.480101403256'}
+Client-perceived latency: 31387678 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 27631498, 'output': 'mflops : 6430.659288334383'}
+Client-perceived latency: 39450364 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 19128775, 'output': 'mflops : 11810.129902486964'}
+Client-perceived latency: 29607539 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 20419250, 'output': 'mflops : 11812.716844606606'}
+Client-perceived latency: 31041303 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 20045639, 'output': 'mflops : 11139.93543845998'}
+Client-perceived latency: 31715150 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 17026601, 'output': 'mflops : 12815.690935737823'}
+Client-perceived latency: 28231440 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 20084321, 'output': 'mflops : 9989.124188380654'}
+Client-perceived latency: 32308880 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 17839921, 'output': 'mflops : 11697.05302274636'}
+Client-perceived latency: 27814824 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 18997492, 'output': 'mflops : 9774.195852185108'}
+Client-perceived latency: 30868265 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 20346167, 'output': 'mflops : 10187.531836542796'}
+Client-perceived latency: 32458468 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 20931584, 'output': 'mflops : 9441.487437238158'}
+Client-perceived latency: 33382412 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 19326045, 'output': 'mflops : 9821.239748239803'}
+Client-perceived latency: 30859364 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 22193217, 'output': 'mflops : 9143.289466492923'}
+Client-perceived latency: 34454777 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 19478003, 'output': 'mflops : 8911.895753041697'}
+Client-perceived latency: 31757426 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 18179927, 'output': 'mflops : 8989.569504514879'}
+Client-perceived latency: 29940781 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 22863006, 'output': 'mflops : 9666.077538871647'}
+Client-perceived latency: 37079099 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 17505236, 'output': 'mflops : 11920.895323304805'}
+Client-perceived latency: 28888858 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 17745651, 'output': 'mflops : 11965.86129716918'}
+Client-perceived latency: 29876528 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 17881904, 'output': 'mflops : 10986.902767923784'}
+Client-perceived latency: 29664249 ns
+INPUT: {"payload": [123, 34, 78, 34, 58, 32, 53, 49, 50, 125], "metadata_map": {"header-N": "512"}}
+
+<Response [200]>
+{'duration_ns': 21568328, 'output': 'mflops : 11347.210298277423'}
+Client-perceived latency: 33914055 ns

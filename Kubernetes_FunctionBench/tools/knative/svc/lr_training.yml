@@ -1,0 +1,15 @@
+---
+apiVersion: serving.knative.dev/v1
+kind: Service
+metadata:
+  name: vitaminv-lr-training-ubuntu-fc-1
+spec:
+  template:
+    spec:
+      runtimeClassName: kata-fc
+      imagePullSecrets:
+        - name: ghcr-secret
+      containers:
+        - image: ghcr.io/arkountos/vitaminv-lr_training:0.0.22
+          ports:
+            - containerPort: 8000

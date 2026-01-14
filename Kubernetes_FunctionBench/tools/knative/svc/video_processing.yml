@@ -1,0 +1,16 @@
+---
+apiVersion: serving.knative.dev/v1
+kind: Service
+metadata:
+  name: vitaminv-video-processing-ubuntu-fc-1
+spec:
+  template:
+    spec:
+      runtimeClassName: kata-fc
+      imagePullSecrets:
+        - name: ghcr-secret
+      containers:
+        - image: ghcr.io/arkountos/vitaminv-video_processing:0.0.22
+          imagePullPolicy: Always
+          ports:
+            - containerPort: 8000

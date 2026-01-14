@@ -1,0 +1,6 @@
+INPUT: {"payload": [123, 34, 102, 105, 108, 101, 95, 115, 105, 122, 101, 34, 58, 32, 50, 53, 125], "metadata_map": {"header-file-size": "25"}}
+
+<Response [200]>
+{'duration_ns': 1484788028, 'output': "{'processing_ns': 1.484349012374878}"}
+Client-perceived latency: 1496127619 ns
+INPUT: {"payload": [123, 34, 102, 105, 108, 101, 95, 115, 105, 122, 101, 34, 58, 32, 50, 53, 125], "metadata_map": {"header-file-size": "25"}}

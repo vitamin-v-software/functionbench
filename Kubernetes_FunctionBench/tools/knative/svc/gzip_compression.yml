@@ -1,0 +1,15 @@
+---
+apiVersion: serving.knative.dev/v1
+kind: Service
+metadata:
+  name: vitaminv-gzip-compression-ubuntu-fc-1
+spec:
+  template:
+    spec:
+      runtimeClassName: kata-fc
+      imagePullSecrets:
+        - name: ghcr-secret
+      containers:
+        - image: ghcr.io/arkountos/vitaminv-gzip_compression:0.0.26
+          ports:
+            - containerPort: 8000

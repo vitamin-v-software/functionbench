@@ -1,0 +1,501 @@
+
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 238265403, 'output': "{'encryption_iters_ns': 227634197}"}
+Client-perceived latency: 2755947811 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 227870910, 'output': "{'encryption_iters_ns': 226528125}"}
+Client-perceived latency: 240375626 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 225708779, 'output': "{'encryption_iters_ns': 224025451}"}
+Client-perceived latency: 237650030 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 223066867, 'output': "{'encryption_iters_ns': 221515395}"}
+Client-perceived latency: 235289081 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 222744339, 'output': "{'encryption_iters_ns': 221179164}"}
+Client-perceived latency: 233816321 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 225492611, 'output': "{'encryption_iters_ns': 223476387}"}
+Client-perceived latency: 238400100 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 226090070, 'output': "{'encryption_iters_ns': 224308061}"}
+Client-perceived latency: 238263947 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 228255560, 'output': "{'encryption_iters_ns': 227004212}"}
+Client-perceived latency: 239025708 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 226080476, 'output': "{'encryption_iters_ns': 224900292}"}
+Client-perceived latency: 237819160 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 224307072, 'output': "{'encryption_iters_ns': 223133630}"}
+Client-perceived latency: 236492109 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 185920106, 'output': "{'encryption_iters_ns': 183356764}"}
+Client-perceived latency: 197407149 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 224516787, 'output': "{'encryption_iters_ns': 223324820}"}
+Client-perceived latency: 235779405 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 225505382, 'output': "{'encryption_iters_ns': 224115745}"}
+Client-perceived latency: 237995588 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 225432851, 'output': "{'encryption_iters_ns': 223880487}"}
+Client-perceived latency: 239821596 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 226589966, 'output': "{'encryption_iters_ns': 224987664}"}
+Client-perceived latency: 237667383 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 224056861, 'output': "{'encryption_iters_ns': 222384990}"}
+Client-perceived latency: 235893051 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 223535237, 'output': "{'encryption_iters_ns': 221749750}"}
+Client-perceived latency: 235648013 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 223042861, 'output': "{'encryption_iters_ns': 221253047}"}
+Client-perceived latency: 236044554 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 222981525, 'output': "{'encryption_iters_ns': 221305728}"}
+Client-perceived latency: 235624982 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 222568796, 'output': "{'encryption_iters_ns': 220813251}"}
+Client-perceived latency: 234508784 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 227885187, 'output': "{'encryption_iters_ns': 226255034}"}
+Client-perceived latency: 238742882 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 222017689, 'output': "{'encryption_iters_ns': 220790896}"}
+Client-perceived latency: 233130322 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 236785876, 'output': "{'encryption_iters_ns': 235366272}"}
+Client-perceived latency: 248003942 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 232555846, 'output': "{'encryption_iters_ns': 231085725}"}
+Client-perceived latency: 244268695 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 224549042, 'output': "{'encryption_iters_ns': 222471246}"}
+Client-perceived latency: 235811733 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 185927144, 'output': "{'encryption_iters_ns': 184612075}"}
+Client-perceived latency: 196046222 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 222577047, 'output': "{'encryption_iters_ns': 220833348}"}
+Client-perceived latency: 234169844 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 221553519, 'output': "{'encryption_iters_ns': 219629279}"}
+Client-perceived latency: 233109264 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 225444924, 'output': "{'encryption_iters_ns': 223767296}"}
+Client-perceived latency: 237459973 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 226632764, 'output': "{'encryption_iters_ns': 225017116}"}
+Client-perceived latency: 237871871 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 228401228, 'output': "{'encryption_iters_ns': 226865188}"}
+Client-perceived latency: 239840499 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 222964396, 'output': "{'encryption_iters_ns': 222030896}"}
+Client-perceived latency: 232105089 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 225234589, 'output': "{'encryption_iters_ns': 223856339}"}
+Client-perceived latency: 236231014 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 229472250, 'output': "{'encryption_iters_ns': 227753876}"}
+Client-perceived latency: 240924907 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 184813795, 'output': "{'encryption_iters_ns': 183320455}"}
+Client-perceived latency: 194804447 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 231225113, 'output': "{'encryption_iters_ns': 229722076}"}
+Client-perceived latency: 243328200 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 224087175, 'output': "{'encryption_iters_ns': 222431728}"}
+Client-perceived latency: 234903420 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 224366952, 'output': "{'encryption_iters_ns': 222658004}"}
+Client-perceived latency: 235811138 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 221237337, 'output': "{'encryption_iters_ns': 219514973}"}
+Client-perceived latency: 232742819 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 234345532, 'output': "{'encryption_iters_ns': 232789906}"}
+Client-perceived latency: 245232863 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 224109786, 'output': "{'encryption_iters_ns': 222226134}"}
+Client-perceived latency: 235375454 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 223273678, 'output': "{'encryption_iters_ns': 221752370}"}
+Client-perceived latency: 234787759 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 225473913, 'output': "{'encryption_iters_ns': 224088209}"}
+Client-perceived latency: 236979704 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 223879461, 'output': "{'encryption_iters_ns': 222093081}"}
+Client-perceived latency: 235047227 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 224717810, 'output': "{'encryption_iters_ns': 222669361}"}
+Client-perceived latency: 236104450 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 227819582, 'output': "{'encryption_iters_ns': 226182142}"}
+Client-perceived latency: 238755014 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 225308726, 'output': "{'encryption_iters_ns': 223623279}"}
+Client-perceived latency: 236743989 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 233098905, 'output': "{'encryption_iters_ns': 231827574}"}
+Client-perceived latency: 244391819 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 224785485, 'output': "{'encryption_iters_ns': 223351482}"}
+Client-perceived latency: 236250012 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 225290758, 'output': "{'encryption_iters_ns': 223922055}"}
+Client-perceived latency: 235826222 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 221105170, 'output': "{'encryption_iters_ns': 219161050}"}
+Client-perceived latency: 232601336 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 232029255, 'output': "{'encryption_iters_ns': 230112815}"}
+Client-perceived latency: 243527542 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 231003185, 'output': "{'encryption_iters_ns': 229279818}"}
+Client-perceived latency: 242239563 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 222365760, 'output': "{'encryption_iters_ns': 221086699}"}
+Client-perceived latency: 235703125 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 224787828, 'output': "{'encryption_iters_ns': 223011526}"}
+Client-perceived latency: 236557216 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 221114714, 'output': "{'encryption_iters_ns': 219679241}"}
+Client-perceived latency: 231930763 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 223484248, 'output': "{'encryption_iters_ns': 222115307}"}
+Client-perceived latency: 234680468 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 227656764, 'output': "{'encryption_iters_ns': 225945973}"}
+Client-perceived latency: 238702834 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 226213337, 'output': "{'encryption_iters_ns': 224856926}"}
+Client-perceived latency: 237161578 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 229487047, 'output': "{'encryption_iters_ns': 227576311}"}
+Client-perceived latency: 241237353 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 226710619, 'output': "{'encryption_iters_ns': 225057899}"}
+Client-perceived latency: 237829340 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 224929772, 'output': "{'encryption_iters_ns': 223557562}"}
+Client-perceived latency: 235740106 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 229001922, 'output': "{'encryption_iters_ns': 227587422}"}
+Client-perceived latency: 240139226 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 238998269, 'output': "{'encryption_iters_ns': 237799226}"}
+Client-perceived latency: 250573344 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 232535903, 'output': "{'encryption_iters_ns': 231130115}"}
+Client-perceived latency: 244106346 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 223949161, 'output': "{'encryption_iters_ns': 222471055}"}
+Client-perceived latency: 236204052 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 227492075, 'output': "{'encryption_iters_ns': 225672398}"}
+Client-perceived latency: 238803650 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 222828480, 'output': "{'encryption_iters_ns': 221270587}"}
+Client-perceived latency: 234083206 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 231714067, 'output': "{'encryption_iters_ns': 230005733}"}
+Client-perceived latency: 243037787 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 224169765, 'output': "{'encryption_iters_ns': 221974761}"}
+Client-perceived latency: 236487282 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 234691908, 'output': "{'encryption_iters_ns': 232898320}"}
+Client-perceived latency: 247042751 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 229863451, 'output': "{'encryption_iters_ns': 228626595}"}
+Client-perceived latency: 241409408 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 224588801, 'output': "{'encryption_iters_ns': 223198722}"}
+Client-perceived latency: 236075717 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 230709830, 'output': "{'encryption_iters_ns': 228975330}"}
+Client-perceived latency: 242049372 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 228891315, 'output': "{'encryption_iters_ns': 227016201}"}
+Client-perceived latency: 240132665 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 226120762, 'output': "{'encryption_iters_ns': 224369532}"}
+Client-perceived latency: 240942923 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 228658765, 'output': "{'encryption_iters_ns': 227008156}"}
+Client-perceived latency: 240157088 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 222816212, 'output': "{'encryption_iters_ns': 221384894}"}
+Client-perceived latency: 234594231 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 228587768, 'output': "{'encryption_iters_ns': 226673629}"}
+Client-perceived latency: 240575702 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 224766597, 'output': "{'encryption_iters_ns': 223187493}"}
+Client-perceived latency: 235840200 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 230991018, 'output': "{'encryption_iters_ns': 229448990}"}
+Client-perceived latency: 242154882 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 233460703, 'output': "{'encryption_iters_ns': 231884097}"}
+Client-perceived latency: 245389884 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 224923404, 'output': "{'encryption_iters_ns': 223794384}"}
+Client-perceived latency: 236640082 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 228742259, 'output': "{'encryption_iters_ns': 226969598}"}
+Client-perceived latency: 242555468 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 221871621, 'output': "{'encryption_iters_ns': 220320781}"}
+Client-perceived latency: 232887093 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 224699737, 'output': "{'encryption_iters_ns': 223009034}"}
+Client-perceived latency: 236490138 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 231748887, 'output': "{'encryption_iters_ns': 230303269}"}
+Client-perceived latency: 242823881 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 222216759, 'output': "{'encryption_iters_ns': 220420795}"}
+Client-perceived latency: 234805110 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 224131128, 'output': "{'encryption_iters_ns': 222616523}"}
+Client-perceived latency: 236972546 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 225494487, 'output': "{'encryption_iters_ns': 223855887}"}
+Client-perceived latency: 236982214 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 191652613, 'output': "{'encryption_iters_ns': 190475030}"}
+Client-perceived latency: 201388149 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 232630869, 'output': "{'encryption_iters_ns': 231198793}"}
+Client-perceived latency: 244349096 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 223595879, 'output': "{'encryption_iters_ns': 221955021}"}
+Client-perceived latency: 235663039 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 222357225, 'output': "{'encryption_iters_ns': 220616856}"}
+Client-perceived latency: 234177458 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 231897951, 'output': "{'encryption_iters_ns': 230505580}"}
+Client-perceived latency: 242972892 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 226330719, 'output': "{'encryption_iters_ns': 224687735}"}
+Client-perceived latency: 238367195 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 222519318, 'output': "{'encryption_iters_ns': 220800039}"}
+Client-perceived latency: 236935356 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 227298625, 'output': "{'encryption_iters_ns': 226015646}"}
+Client-perceived latency: 238180635 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 221685398, 'output': "{'encryption_iters_ns': 219700948}"}
+Client-perceived latency: 234677736 ns
+INPUT: {"payload": [123, 34, 109, 101, 115, 115, 97, 103, 101, 95, 108, 101, 110, 103, 116, 104, 34, 58, 32, 49, 48, 50, 52, 44, 32, 34, 110, 117, 109, 95, 105, 116, 101, 114, 97, 116, 105, 111, 110, 115, 34, 58, 32, 51, 50, 125], "metadata_map": {"header-message-length": "1024", "header-num-iterations": "32"}}
+
+<Response [200]>
+{'duration_ns': 221147226, 'output': "{'encryption_iters_ns': 219379208}"}
+Client-perceived latency: 233086586 ns

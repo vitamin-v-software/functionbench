@@ -1,0 +1,3 @@
+3096121323
+3058913724
+Average Client-perceived latency: 3077520000
