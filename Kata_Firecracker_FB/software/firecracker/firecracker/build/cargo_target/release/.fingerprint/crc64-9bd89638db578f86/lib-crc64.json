@@ -1,0 +1,1 @@
+{"rustc":2374306409484880237,"features":"[]","declared_features":"[]","target":1963323425313997231,"profile":9336093020725056105,"path":12332691674776830116,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"release/.fingerprint/crc64-9bd89638db578f86/dep-lib-crc64","checksum":false}}],"rustflags":["-Ccodegen-units=1"],"config":2069994364910194474,"compile_kind":0}

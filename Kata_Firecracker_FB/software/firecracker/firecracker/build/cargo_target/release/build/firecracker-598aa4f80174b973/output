@@ -1,0 +1,3 @@
+cargo:warning=No default seccomp policy for target: riscv64gc-unknown-linux-gnu. Defaulting to `resources/seccomp/unimplemented.json`.
+cargo:rerun-if-changed=../../resources/seccomp/unimplemented.json
+cargo:rerun-if-changed=../seccompiler/src

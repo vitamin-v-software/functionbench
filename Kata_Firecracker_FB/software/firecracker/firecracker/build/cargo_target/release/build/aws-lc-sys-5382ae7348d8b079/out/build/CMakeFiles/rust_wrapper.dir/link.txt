@@ -1,0 +1,2 @@
+/usr/bin/ar qc artifacts/libaws_lc_0_29_0_rust_wrapper.a CMakeFiles/rust_wrapper.dir/rust_wrapper.c.o
+/usr/bin/ranlib artifacts/libaws_lc_0_29_0_rust_wrapper.a

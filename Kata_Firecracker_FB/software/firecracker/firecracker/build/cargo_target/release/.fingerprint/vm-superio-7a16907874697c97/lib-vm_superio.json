@@ -1,0 +1,1 @@
+{"rustc":2374306409484880237,"features":"[]","declared_features":"[]","target":9431658675897383754,"profile":9336093020725056105,"path":16063153624707594192,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"release/.fingerprint/vm-superio-7a16907874697c97/dep-lib-vm_superio","checksum":false}}],"rustflags":["-Ccodegen-units=1"],"config":2069994364910194474,"compile_kind":0}

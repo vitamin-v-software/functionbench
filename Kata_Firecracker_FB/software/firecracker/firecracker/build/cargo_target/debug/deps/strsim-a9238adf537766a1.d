@@ -1,0 +1,7 @@
+/home/ubuntu/fivos_workdir/firecracker/firecracker/build/cargo_target/debug/deps/libstrsim-a9238adf537766a1.rmeta: /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/strsim-0.11.1/src/lib.rs
+
+/home/ubuntu/fivos_workdir/firecracker/firecracker/build/cargo_target/debug/deps/libstrsim-a9238adf537766a1.rlib: /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/strsim-0.11.1/src/lib.rs
+
+/home/ubuntu/fivos_workdir/firecracker/firecracker/build/cargo_target/debug/deps/strsim-a9238adf537766a1.d: /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/strsim-0.11.1/src/lib.rs
+
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/strsim-0.11.1/src/lib.rs:

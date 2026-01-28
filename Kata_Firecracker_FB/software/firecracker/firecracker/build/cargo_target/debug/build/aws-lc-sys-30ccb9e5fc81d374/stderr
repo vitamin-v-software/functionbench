@@ -1,0 +1,13 @@
+error: 'rustfmt' is not installed for the toolchain '1.85.0-riscv64gc-unknown-linux-gnu'.
+To install, run `rustup component add --toolchain 1.85.0-riscv64gc-unknown-linux-gnu rustfmt`
+Failed to run rustfmt: Internal rustfmt error (non-fatal, continuing)
+CMake Deprecation Warning at CMakeLists.txt:10 (cmake_policy):
+  The OLD behavior for policy CMP0091 will be removed from a future version
+  of CMake.
+
+  The cmake-policies(7) manual explains that the OLD behaviors of all
+  policies are deprecated and that a policy should be set to OLD only under
+  specific short-term circumstances.  Projects should be ported to the NEW
+  behavior and not rely on setting a policy to OLD.
+
+

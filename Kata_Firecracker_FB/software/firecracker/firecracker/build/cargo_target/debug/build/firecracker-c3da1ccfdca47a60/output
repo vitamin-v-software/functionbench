@@ -1,0 +1,3 @@
+cargo:warning=Using empty default seccomp policy for debug builds: `resources/seccomp/unimplemented.json`.
+cargo:rerun-if-changed=../../resources/seccomp/unimplemented.json
+cargo:rerun-if-changed=../seccompiler/src

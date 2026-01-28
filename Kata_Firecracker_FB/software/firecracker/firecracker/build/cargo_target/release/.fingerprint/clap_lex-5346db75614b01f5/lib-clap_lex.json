@@ -1,0 +1,1 @@
+{"rustc":2374306409484880237,"features":"[]","declared_features":"[]","target":1825942688849220394,"profile":7894215019980451709,"path":12904246654059965999,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"release/.fingerprint/clap_lex-5346db75614b01f5/dep-lib-clap_lex","checksum":false}}],"rustflags":["-Ccodegen-units=1"],"config":2069994364910194474,"compile_kind":0}

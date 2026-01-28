@@ -1,0 +1,45 @@
+OUT_DIR = Some(/home/ubuntu/fivos_workdir/firecracker/firecracker/build/cargo_target/debug/build/userfaultfd-sys-df285197859f97c1/out)
+OPT_LEVEL = Some(0)
+TARGET = Some(riscv64gc-unknown-linux-gnu)
+HOST = Some(riscv64gc-unknown-linux-gnu)
+cargo:rerun-if-env-changed=CC_riscv64gc-unknown-linux-gnu
+CC_riscv64gc-unknown-linux-gnu = None
+cargo:rerun-if-env-changed=CC_riscv64gc_unknown_linux_gnu
+CC_riscv64gc_unknown_linux_gnu = None
+cargo:rerun-if-env-changed=HOST_CC
+HOST_CC = None
+cargo:rerun-if-env-changed=CC
+CC = None
+cargo:rerun-if-env-changed=CC_ENABLE_DEBUG_OUTPUT
+RUSTC_WRAPPER = None
+cargo:rerun-if-env-changed=CRATE_CC_NO_DEFAULTS
+CRATE_CC_NO_DEFAULTS = None
+DEBUG = Some(true)
+CARGO_CFG_TARGET_FEATURE = Some(a,c,m)
+cargo:rerun-if-env-changed=CFLAGS
+CFLAGS = None
+cargo:rerun-if-env-changed=HOST_CFLAGS
+HOST_CFLAGS = None
+cargo:rerun-if-env-changed=CFLAGS_riscv64gc_unknown_linux_gnu
+CFLAGS_riscv64gc_unknown_linux_gnu = None
+cargo:rerun-if-env-changed=CFLAGS_riscv64gc-unknown-linux-gnu
+CFLAGS_riscv64gc-unknown-linux-gnu = None
+CARGO_ENCODED_RUSTFLAGS = Some(-Ccodegen-units=1)
+cargo:rerun-if-env-changed=AR_riscv64gc-unknown-linux-gnu
+AR_riscv64gc-unknown-linux-gnu = None
+cargo:rerun-if-env-changed=AR_riscv64gc_unknown_linux_gnu
+AR_riscv64gc_unknown_linux_gnu = None
+cargo:rerun-if-env-changed=HOST_AR
+HOST_AR = None
+cargo:rerun-if-env-changed=AR
+AR = None
+cargo:rerun-if-env-changed=ARFLAGS
+ARFLAGS = None
+cargo:rerun-if-env-changed=HOST_ARFLAGS
+HOST_ARFLAGS = None
+cargo:rerun-if-env-changed=ARFLAGS_riscv64gc_unknown_linux_gnu
+ARFLAGS_riscv64gc_unknown_linux_gnu = None
+cargo:rerun-if-env-changed=ARFLAGS_riscv64gc-unknown-linux-gnu
+ARFLAGS_riscv64gc-unknown-linux-gnu = None
+cargo:rustc-link-lib=static=userfaultfd_sys_consts
+cargo:rustc-link-search=native=/home/ubuntu/fivos_workdir/firecracker/firecracker/build/cargo_target/debug/build/userfaultfd-sys-df285197859f97c1/out

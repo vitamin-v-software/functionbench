@@ -1,0 +1,1 @@
+{"rustc":2374306409484880237,"features":"[]","declared_features":"[]","target":12526838012358667259,"profile":2225463790103693989,"path":13961999899489070207,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"debug/.fingerprint/fs_extra-fdb235c0fe65cbf5/dep-lib-fs_extra","checksum":false}}],"rustflags":["-Ccodegen-units=1"],"config":2069994364910194474,"compile_kind":0}
